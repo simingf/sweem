@@ -8,7 +8,7 @@ To use SWEEM, run ```python sweem.py```. You can run the model with pre-trained 
 Once running and saving the model weights, running through the visualizations.ipynb notebook will be sufficient.
 
 ## Research Paper
-Please read our [research paper!](SWEEM.pdf) We document our research methodologies and findings in much more detail.
+Please read our [research paper](SWEEM.pdf)! We document our research methodologies and findings in much more detail.
 
 ## Note
 This repository is copied over from the original group repository: https://github.com/SppEric/sweem
