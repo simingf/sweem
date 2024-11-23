@@ -7,6 +7,10 @@ Since biological processes associated with cancer are complex and multifaceted, 
 To use SWEEM, run ```python sweem.py```. You can run the model with pre-trained model weights by only running line 78, or if you want to load the weights from inference, than only run line 85.
 Once running and saving the model weights, running through the visualizations.ipynb notebook will be sufficient.
 
+## Research Paper
+Please read our [research paper!](SWEEM.pdf) We document our research methodologies and findings in much more detail.
+
 ## Note
 This repository is copied over from the original group repository: https://github.com/SppEric/sweem
+
 Contributors: Siming Feng, William Guo, Eric Han, Evan Lu, Mason Zhang
